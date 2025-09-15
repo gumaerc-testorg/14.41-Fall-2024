@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "90ed1bca-4638-3198-4588-2a4923cfc575"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "758bf1a0-13eb-409b-b855-24ad3539df1c",
+    "website": "public-finance-and-public-policy"
+  },
+  "course_title": "Public Finance and Public Policy",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course examines the role of the public sector in the economy. The course aims to provide an understanding of the reasons for government intervention in the economy, the extent of that intervention, and the response of private agents to the government\u2019s actions.",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.41",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Exams",
+    "Exams with Solutions"
+  ],
+  "site_uid": "e4cf5e01-c0b6-44b9-82c4-eef6cfb619a2",
+  "site_short_id": "14.41-Fall-2024",
+  "site_url_path": "courses/14-41-public-finance-and-public-policy-fall-2024"
+}

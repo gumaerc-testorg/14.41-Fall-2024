@@ -1,0 +1,113 @@
+leftnav:
+- identifier: a4f0a479-14dd-4490-b7d7-12bf0231be21
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d6bb379f-5f36-444e-b611-df329b36b04d
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e3d781d5-656b-4a85-9eae-9e382c6688e7
+  name: 'Lecture 1: Why Study Public Finance?'
+  pageRef: /pages/lecture-1-why-study-public-finance
+  weight: 30
+- identifier: 0d76990d-36b7-461b-953d-b2a75730cf75
+  name: 'Lecture 2: Externalities in Theory'
+  pageRef: /pages/lecture-2-externalities-in-theory
+  weight: 40
+- identifier: c2d2c931-844f-48f5-b603-50f945a8fd17
+  name: 'Lecture 3: Externalities in Theory & Practice'
+  pageRef: /pages/lecture-3-externalities-in-theory-practice
+  weight: 50
+- identifier: 5b567ff6-847a-48bc-9944-35c15ef13b92
+  name: 'Lecture 4: Externalities in Practice II '
+  pageRef: /pages/lecture-4-externalities-in-practice-ii
+  weight: 60
+- identifier: 3d4e0fb0-a311-4268-a188-c67b64ceb832
+  name: 'Lecture 5: Public Good Theory, Optimality & Pricing'
+  pageRef: /pages/lecture-5-public-goods-theory-optimality-pricing
+  weight: 70
+- identifier: 8c06ebe8-ba0d-448a-8432-ff4234833921
+  name: 'Lecture 6: Cost/Benefit Analsyis '
+  pageRef: /pages/lecture-6-costbenefit-analysis
+  weight: 80
+- identifier: d72368a5-dbb6-4d5a-800b-d1f06ce7a61a
+  name: 'Lecture 7: Political Economy'
+  pageRef: /pages/lecture-7-political-economy
+  weight: 90
+- identifier: 4aa00513-3fa0-4957-9103-4e6ffe1e54f7
+  name: 'Lecture 8: Local Public Goods & Fiscal Federalism'
+  pageRef: /pages/lecture-8-local-public-goods-fiscal-federalism
+  weight: 100
+- identifier: 17613335-6eab-462b-9349-915550587600
+  name: 'Lecture 9: Public Provision of Private Goods: Education'
+  pageRef: /pages/lecture-9-public-provision-of-private-goods-education
+  weight: 110
+- identifier: 7d3e6357-466c-403a-b70c-4dd73e1ba0d1
+  name: 'Lecture 10: Social Insurance Theory'
+  pageRef: /pages/lecture-10-social-insurance-theory
+  weight: 120
+- identifier: 7791572f-f456-4d5a-bb5c-12876945a499
+  name: 'Lecture 11: Social Security'
+  pageRef: /pages/lecture-11-social-security
+  weight: 130
+- identifier: b7281947-8a4c-4f95-8eb6-60b95f8e5e10
+  name: 'Lecture 12: Other Social Insurance Programs'
+  pageRef: /pages/lecture-12-other-social-insurance-programs
+  weight: 140
+- identifier: d3a05a02-e752-4a7e-8c67-1fcc76e6c6a1
+  name: 'Lecture 13: Health Care I'
+  pageRef: /pages/lecture-13-health-care-i
+  weight: 150
+- identifier: 6a99d7ca-dfa0-4dbc-b5c3-91be1b557cc4
+  name: 'Lecture 14: Health Care II'
+  pageRef: /pages/lecture-14-health-care-ii
+  weight: 160
+- identifier: a1c59bf4-1e1c-4b48-b3c3-32c79bd4f0b9
+  name: 'Lecture 15: Health Care III'
+  pageRef: /pages/lecture-15-health-care-iii
+  weight: 170
+- identifier: d01bca98-1f74-4a9c-a89d-7c80f092af3c
+  name: 'Lecture 16: Redistribution & Welfare Policy'
+  pageRef: /pages/lecture-16-redistribution-welfare-policy
+  weight: 180
+- identifier: 41cbf6d0-281d-41d8-9efc-3d2708732ef0
+  name: 'Lecture 17: Redistribution & Welfare, Taxation'
+  pageRef: /pages/lecture-17-redistribution-welfare-taxation
+  weight: 190
+- identifier: 822af905-1fb6-4a44-87cc-c89610d76a76
+  name: 'Lecture 18: Overview of Taxation & Tax Base, Tax Incidence'
+  pageRef: /pages/lecture-18
+  weight: 200
+- identifier: aa0adc3b-6299-4454-b5fe-09c122dc27c8
+  name: 'Lecture 19: Tax Incidence & Tax Efficiency'
+  pageRef: /pages/lecture-19
+  weight: 210
+- identifier: ea428a49-641a-41af-9872-9c89c81fd98b
+  name: Lecture 20 Taxation & Labor Supply
+  pageRef: /pages/lecture-20
+  weight: 220
+- identifier: 278dbfe3-1e14-4545-876c-49c40ae591c9
+  name: 'Lecture 21: Taxation and Savings'
+  pageRef: /pages/lecture-21
+  weight: 230
+- identifier: e59c50d6-14f3-4dc4-835b-961adf4d3973
+  name: 'Lecture 22: Wealth Taxation'
+  pageRef: /pages/lecture-22
+  weight: 240
+- identifier: 012a598c-cf89-49b1-95b1-eecc06ebec9c
+  name: 'Lecture 23: Corporate Taxation '
+  pageRef: /pages/lecture-23
+  weight: 250
+- identifier: 51888c6e-44d1-4832-b67f-2bc13b5fe293
+  name: 'Lecture 24: Corporate Taxation & Tax Reform'
+  pageRef: /pages/lecture-24
+  weight: 260
+- identifier: 6b66deaf-f45f-49d7-88d1-a05390ee64f9
+  name: Problem Sets With Solutions
+  pageRef: /lists/problem-sets-with-solutions
+  weight: 270
+- identifier: 10e02383-ba73-4f5b-82f9-e4596b4cb132
+  name: Exams
+  pageRef: /lists/exams
+  weight: 280
