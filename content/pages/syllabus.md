@@ -14,12 +14,12 @@ Recitation: 1/session week; 1 hour/session
 
 ## Prerequisites
 
-The prerequisite for this course is [*14.01 Principles of Microeconomics*](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/). 
+The prerequisite for this course is {{% resource_link "8ed9c48a-8b58-4455-94a3-bdd69253a342" "*14.01 Principles of Microeconomics*" %}}. 
 
 ## Requirements and Grading
 
 There are three sets of requirements for this course:
 
-1. Readings: The only required reading is my textbook: Gruber, Jon. [*Public Finance and Public Policy, Seventh Editio*](https://www.macmillanlearning.com/college/us/product/Public-Finance-and-Public-Policy/p/1319281109)*n.* Worth Publishers, 2022. ISBN: 9781319281106. \[[Preview with Google Books](https://www.google.com/books/edition/Public_Finance_and_Public_Policy/phgD_KvT06UC?hl=en&gbpv=1&dq=public+finance+and+public+policy&printsec=frontcover)\].
+1. Readings: The only required reading is my textbook: Gruber, Jon. {{% resource_link "521194e7-a864-4350-bbdd-0a045ad9d101" "*Public Finance and Public Policy, Seventh Editio*" %}}*n.* Worth Publishers, 2022. ISBN: 9781319281106. \[{{% resource_link "1c5c5220-b8cd-434b-8f40-2d0554a3830c" "Preview with Google Books" %}}\].
 2. Exams: There will be a midterm exam worth 25% of the grade. There will be a final exam worth 50% of the grade during finals period.
 3. Problem Sets: There will be six problem sets throughout the semester, each of which will consist of both mathematical exercises and essay questions. This requirement will be worth the remaining 25% of the grade. **No late problem sets will be accepted for any reason.** Grading will be based on the top 5/6 grades (lowest grade will be dropped).

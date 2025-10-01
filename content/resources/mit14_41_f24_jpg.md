@@ -7,9 +7,9 @@ file_size: 125039
 file_type: image/jpeg
 image_metadata:
   caption: A shopper gives a WIC EBT card to a farmer at a farmer's market in Santee,
-    California. (Photo is in the public domain and is courtesy of the [U.S. Department
-    of Agriculture](https://www.flickr.com/photos/usdagov/53219934934/in/dateposted/)
-    on flickr).
+    California. (Photo is in the public domain and is courtesy of the {{% resource_link
+    "c9b60c44-a087-4add-a146-fdb9abbca32d" "U.S. Department of Agriculture" %}} on
+    flickr).
   credit: Photo is in the public domain and is courtesy of the U.S. Department of
     Agriculture on flickr.
   image-alt: 'A closeup photo of a hand holding a credit-card like card that says
